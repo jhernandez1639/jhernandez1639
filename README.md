@@ -1,4 +1,4 @@
-### Hi there 👋
+Information systems undergraduate student interested in opportunities to grow as a professional in the technology field | Eager to assist with the operation of computerized systems and provide technical support | Experienced in the development of applications, troubleshooting, diagnosis, repair and maintenance of technological equipment
 
 <!--
 **jhernandez1639/jhernandez1639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
